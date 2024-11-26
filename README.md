@@ -25,6 +25,7 @@ requirements.txt. To install them run
 ```
 pip install -r requirements.txt
 ```
+If you have a CUDA GPU, install `tensorflow[and-cuda]`
 
 ## Sources
 G. Cohen, S. Afshar, J. Tapson and A. van Schaik, "EMNIST: Extending MNIST to
