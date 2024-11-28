@@ -27,6 +27,13 @@ pip install -r requirements.txt
 ```
 If you have a CUDA GPU, install `tensorflow[and-cuda]`
 
+We've shared the all of the images in EMNIST as well as a separate smaller set
+for the purpose of running the demo on
+[OneDrive](https://iit0-my.sharepoint.com/:u:/g/personal/nbaxley_hawk_iit_edu/EQzjzZVtF0JIu4fwSMDRAP4BhSl2reRPJHUSndkhKiPx7Q?e=E18xqa).
+To use these, just unzip the files directly into the repository
+folder. Currently the zip file is only available if you're signed in with your
+IIT account.
+
 ## Sources
 G. Cohen, S. Afshar, J. Tapson and A. van Schaik, "EMNIST: Extending MNIST to
 handwritten letters," 2017 International Joint Conference on Neural Networks
